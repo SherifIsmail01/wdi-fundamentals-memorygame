@@ -1,0 +1,17 @@
+<html>
+	<head>
+		<title></title>
+	</head>
+	<body>
+		<header>
+			<div id =""></div>
+			<h1>New York Times</h1>
+			<nav>
+				<ul>
+					<li><a href="">
+					Politics</a></li>
+				</ul>
+			</nav>
+		</header>
+	</body>
+</html>					
